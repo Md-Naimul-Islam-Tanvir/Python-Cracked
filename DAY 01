@@ -1,0 +1,43 @@
+Data science
+print('Gigi Hadid', 'Hena shai', sep=' & ', end='.')
+Gigi Hadid & Hena shai.
+Var = 'Vairevai'
+print(var)
+Vairevai
+Var = 'Vairevai'
+print('var')
+var
+Var = 'Vairevai'
+print(var)
+print('I want to say '+Var)
+​
+Vairevai
+I want to say Vairevai
+x=100
+x
+100
+id('x')
+1939520722160
+Name= 'Tanvir'
+g= 'Tanvir'
+g
+'Tanvir'
+10-7
+3
+x,y,z = 10,100,'tanvir'
+x
+10
+y
+100
+z
+'tanvir'
+Local vs Global
+x=1000
+​
+def func():
+    x= 100
+    print('My score is ',x)
+func()
+print('My score is ',x)
+My score is  100
+My score is  1000
